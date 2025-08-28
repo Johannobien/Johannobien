@@ -1,16 +1,19 @@
-## Hi there 👋
+###👋Hello, i'm Joshua P. Sibug and i'm currently studying at City College Of Angeles as a BSCS student.
+###"WELCOME TO MY PORTFOLIO"
+-I'm a beginner in programming and i'm currently learning and building knowledge to improve my programming skills.
 
-<!--
-**Johannobien/Johannobien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###👨‍💼 "About me"
+-😎 I'm 19 years old and currently a 2nd-year Computer Science student at CCA (City College of Angeles).
+-🎂 My date of birth is August 26, 2006
+-📍 I live in Brgy. Calzadang bayu, Purok 6, Porac, Pampanga.
+-💡 My hobbies are listening to music, nature trip, cook, play online games, and singing😝.
+-🥘 My favorite dish is sisig kapampangan and adobo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🏫"Educational Background"
+Angeles City National Trade School (SHS) TVL- SMAW S.Y 2022-2024
+Angeles City National Trade School (JHS) S.Y 2018-2022
+Calzadang Bayu Elementary School S.Y 2012-2018
+###☎️"Contact me"
+✉️ Email: jsibug24-0009@cca.edu.ph
+💻 Social: FB: Joshua Sibug
+📞 contact #: 09070555338
